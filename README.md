@@ -61,3 +61,14 @@ http://localhost:9200/todo/_search?
 19. Done! ✨ 
 
 **Note:** You should have Docker, the `swagger project start` command, and `swagger project edit` command running in seperate windows, all at the same time. 
+
+
+```
+node v10.18.1
+npm v6.13.4
+swagger v6.13.4
+elasticsearch v12.1.3
+docker elasticsearch:7.6.2
+docker kibana:7.6.2
+OS Catalina 10.15.1 Beta (19B77a)
+```
